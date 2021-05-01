@@ -1,6 +1,9 @@
+# Country Club Events Database
+
 ## This is a Database for the events held at The Saint Johnsbury Country Club.
 
-By: Ryan Cartularo, Andrew Fay-Matseas, Robert Kelter, & Konan Kouame
+
+This database was created in MySQL by the team of: Ryan Cartularo, Andrew Fay-Matseas, Robert Kelter, & Konan Kouame
 
 
 ![Image Of Normalized ERD](https://github.com/RyanCartularo/Country-Club-Events-Database/blob/main/Milestone%203/Normalized%20ERD.PNG) 
@@ -25,3 +28,12 @@ The Set-up Events Table:
 
 The Actual Query:
 ![Image of Query 2b](https://github.com/RyanCartularo/Country-Club-Events-Database/blob/main/Milestone%203/Events%20Actual%20Queries.PNG)
+
+
+### Team Roles:
+Team Lead - Ryan Cartularo
+Driver - Ryan Cartularo
+Research - Andrew Fay-Matseas
+Navigator - Robert Kelter
+Scribe: Konan Kouame
+Contributers - Ryan Cartularo, Andrew Fay-Matseas, Robert Kelter, & Konan Kouame
