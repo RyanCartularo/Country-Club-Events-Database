@@ -46,9 +46,15 @@ The Actual Query:
 
 
 ### Team Roles:
+
 Team Lead - Ryan Cartularo
+
 Driver - Ryan Cartularo
+
 Research - Andrew Fay-Matseas
+
 Navigator - Robert Kelter
+
 Scribe: Konan Kouame
+
 Contributers - Ryan Cartularo, Andrew Fay-Matseas, Robert Kelter, & Konan Kouame
